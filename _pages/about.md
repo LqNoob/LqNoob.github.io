@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>[<i class="ai ai-google-scholar" style="font-size:1.2rem"></i>]({{ https://scholar.google.com/citations?user=Qi2PSmEAAAAJ }}){: style="margin: 0 5px 0 0"}</p>
+    <p>[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=Qi2PSmEAAAAJ)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
