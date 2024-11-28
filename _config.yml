@@ -75,7 +75,7 @@ acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
-discord_id: 127781463430843600 # your discord id (18-digit unique numerical identifier)
+discord_id: # 127781463430843600 # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: LqNoob # your GitHub user name
@@ -83,7 +83,7 @@ gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
-kaggle_id: roocai # your kaggle id
+kaggle_id: # roocai # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -170,8 +170,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  #- name: medium.com
+  #  rss_url: https://medium.com/@al-folio/feed
   - name: Google Blog
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
@@ -491,7 +491,8 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap|Material+Icons"
+      #fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
