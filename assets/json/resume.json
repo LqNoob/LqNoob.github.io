@@ -27,8 +27,8 @@
       "name": "Ajmide Media, Shanghai, China",
       "position": "Algorithm Engineer",
       "url": "https://www.ajmide.com/",
-      "startDate": "now",
-      "endDate": "2019-08-01",
+      "startDate": "2019-08-01",
+      "endDate": "now",
       "summary": "",
       "highlights": []
     }
@@ -52,8 +52,8 @@
       "url": "https://www.jiangnan.edu.cn/",
       "area": "",
       "studyType": "Master",
-      "startDate": "2018-06-24",
-      "endDate": "2015-09-01",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-24",
       "score": "",
       "courses": []
     },
@@ -63,8 +63,8 @@
       "url": "https://www.ahpu.edu.cn/",
       "area": "",
       "studyType": "Undergraduate",
-      "startDate": "2015-06-24",
-      "endDate": "2011-09-01",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-24",
       "score": "",
       "courses": []
     },
@@ -74,8 +74,8 @@
       "url": "http://www.xiaozhang.com.cn/school/ahwyyz",
       "area": "",
       "studyType": "High School",
-      "startDate": "2011-06-24",
-      "endDate": "2008-09-01",
+      "startDate": "2008-09-01",
+      "endDate": "2011-06-24",
       "score": "",
       "courses": []
     }
@@ -144,7 +144,7 @@
     {
       "name": "The Ajmide Text-To-Speech System for Blizzard Challenge 2020",
       "publisher": "",
-      "releaseDate": "Blizzard Challenge 2020",
+      "releaseDate": "Blizzard Challenge",
       "url": "https://www.isca-archive.org/vccbc_2020/hu20_vccbc.pdf",
       "summary": ""
     }
