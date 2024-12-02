@@ -48,7 +48,7 @@
   "education": [
     {
       "institution": "Jiangnan University, Wuxi, China",
-      "location": ,
+      "location": null,
       "url": "https://www.jiangnan.edu.cn/",
       "area": "",
       "studyType": "Master",
@@ -59,7 +59,7 @@
     },
     {
       "institution": "Anhui Polytechnic University, Wuhu, China",
-      "location": ,
+      "location": null,
       "url": "https://www.ahpu.edu.cn/",
       "area": "",
       "studyType": "Undergraduate",
@@ -70,7 +70,7 @@
     },
     {
       "institution": "Guoyang No.1 middle school, Bozhou, China",
-      "location": ,
+      "location": null,
       "url": "http://www.xiaozhang.com.cn/school/ahwyyz",
       "area": "",
       "studyType": "High School",
