@@ -9,5 +9,5 @@ giscus_comments: false
 related_posts: false
 ---
 
-- [2024/12] **FreeCodec: A disentangled neural speech codec with fewer tokens**
-- [2024/11] **TS3-Codec: Transformer-Based Simple Streaming Single Codec**
+
+FreeCodec: A disentangled neural speech codec with fewer tokens
