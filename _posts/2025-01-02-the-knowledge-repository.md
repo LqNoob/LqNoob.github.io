@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Knowledge Repository
-date: 2023-04-25 10:14:00-0400
+date: 2025-01-02 10:14:00
 description: Curated Tech Blogs and Resources
 tags: formatting toc sidebar
 categories: sample-posts
