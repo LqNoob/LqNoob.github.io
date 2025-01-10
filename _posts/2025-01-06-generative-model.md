@@ -13,7 +13,11 @@ toc:
 
 This post shows how to add a table of contents as a sidebar.
 
-深入解析Flow Matching技术
+
+### Diffusion Models
+
+- **What are Diffusion Models?** [[blog-en](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)]
+- **Understanding Diffusion Models: A Unified Perspective** [[paper](https://arxiv.org/abs/2208.11970)]
 
 
 
