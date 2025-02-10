@@ -29,6 +29,13 @@ This post shows how to add a table of contents as a sidebar.
 - **【DeepSpeed 教程翻译】三，在 DeepSpeed中使用 PyTorch Profiler和Flops Profiler** [[tencent](https://cloud.tencent.com/developer/article/2314977)]
 - **deepspeed介绍** [[github](https://github.com/wdndev/llm_interview_note/blob/main/04.%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83/deepspeed%E4%BB%8B%E7%BB%8D/deepspeed%E4%BB%8B%E7%BB%8D.md)]
 
-### Example of another Sub-Heading 1
+### Tutorial for writing video-generated prompts
 
-pass
+- **通往AGI之路** [[feishu](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)]
+- **吉川老师：2024全球AI电影马拉松大赛最佳美术奖《新哪吒闹海》全案拆解** [[feishu](https://waytoagi.feishu.cn/wiki/PV9hw6JWYiMjpgktVD3cnXhFnEh)]
+- **心 Heart 创作分享** [[feishu](https://waytoagi.feishu.cn/wiki/VgDswy9hTihArok8DNIcChnWnzf)]
+- **大雷：2 天爆肝3 分半AI动画短片的制作复盘-踩过的坑与解决方法** [[feishu](https://waytoagi.feishu.cn/wiki/IFkvwLfWxiEaXWkdSewc0koznUe)]
+- **即梦金奖——《梦境》神探阿波罗复盘+教程** [[feishu](https://waytoagi.feishu.cn/wiki/EkoXweVHUiAag9kaY07cbIg7nLb)]
+- **讯飞绘镜创作指南** [[feishu](https://d15vyrv9piv.feishu.cn/wiki/G9U7wkvIBiV0Pyk9B6dcTaGfnJc)][[demo](https://typemovie.art/#/dashboard)]
+- **通义万相AI生视频—使用指南** [[feishu](https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWrx9eo4dCql9LlbYJGXn6lpz?spm=5176.29623064.0.0.41ed1eceYvocES&utm_scene=person_space)][[demo](https://tongyi.aliyun.com/wanxiang/videoCreation)]
+- **海螺视频使用教程** [[feishu](https://b6j6u5f4zf.feishu.cn/docx/WwHTdKdbHosmQBxkq3McUNQ7nwe)][[demo](https://hailuoai.com/video)]
