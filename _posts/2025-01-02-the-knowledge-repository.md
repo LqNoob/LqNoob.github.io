@@ -28,6 +28,8 @@ This post shows how to add a table of contents as a sidebar.
 - **【DeepSpeed 教程翻译】二，Megatron-LM GPT2，Zero Redundancy Optimizer 和 ZeRO-Offload** [[zhihu](https://zhuanlan.zhihu.com/p/636334367)]
 - **【DeepSpeed 教程翻译】三，在 DeepSpeed中使用 PyTorch Profiler和Flops Profiler** [[tencent](https://cloud.tencent.com/developer/article/2314977)]
 - **deepspeed介绍** [[github](https://github.com/wdndev/llm_interview_note/blob/main/04.%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83/deepspeed%E4%BB%8B%E7%BB%8D/deepspeed%E4%BB%8B%E7%BB%8D.md)]
+- **Multi-node Training with LMFlow** [[github](https://github.com/OptimalScale/LMFlow/blob/main/readme/multi_node.md)]
+- **DeepSpeed Multi-node Training Setup** [[github](https://gist.github.com/santurini/e6c10608448aa503a211731e8e6f306d)]
 
 ### Tutorial for writing video-generated prompts
 
