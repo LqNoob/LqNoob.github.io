@@ -10,7 +10,9 @@ related_posts: false
 ---
 
 
-[2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)]
+- [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)]
+> A tip can be used when you want to give advice related to a certain content.
+{: .block-tip }
 
 <!--
 - [2024/10] **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** [[paper](https://arxiv.org/abs/2410.06885)][[code](https://github.com/SWivid/F5-TTS)][[demo](https://swivid.github.io/F5-TTS/)] :heavy_check_mark:
