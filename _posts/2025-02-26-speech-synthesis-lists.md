@@ -21,5 +21,10 @@ related_posts: false
 - [2023/09] **Matcha-tts: A fast tts architecture with conditional flow matching** [[paper](https://arxiv.org/abs/2309.03199v2)][[code](https://github.com/shivammehta25/Matcha-TTS)][[demo](https://shivammehta25.github.io/Matcha-TTS/)]
 
 # Others
-
 - [WeiXin] [AI说书媲美真人！豆包语音大模型升级长上下文理解](https://mp.weixin.qq.com/s/dKRwkFSp-ri_B4pkyeQ8_g)
+
+# Text Tokenizers
+- [tiktoken](https://github.com/openai/tiktoken): Tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [sentencepiece](https://github.com/google/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
+
+
