@@ -41,3 +41,7 @@ This post shows how to add a table of contents as a sidebar.
 - **讯飞绘镜创作指南** [[feishu](https://d15vyrv9piv.feishu.cn/wiki/G9U7wkvIBiV0Pyk9B6dcTaGfnJc)][[demo](https://typemovie.art/#/dashboard)]
 - **通义万相AI生视频—使用指南** [[feishu](https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWrx9eo4dCql9LlbYJGXn6lpz?spm=5176.29623064.0.0.41ed1eceYvocES&utm_scene=person_space)][[demo](https://tongyi.aliyun.com/wanxiang/videoCreation)]
 - **海螺视频使用教程** [[feishu](https://b6j6u5f4zf.feishu.cn/docx/WwHTdKdbHosmQBxkq3McUNQ7nwe)][[demo](https://hailuoai.com/video)]
+
+### Some Feature-Rich Toolkit
+
+- **Excalidraw** [[web](https://excalidraw.com/)]
