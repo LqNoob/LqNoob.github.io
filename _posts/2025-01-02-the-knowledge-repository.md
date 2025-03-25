@@ -42,6 +42,16 @@ This post shows how to add a table of contents as a sidebar.
 - **通义万相AI生视频—使用指南** [[feishu](https://alidocs.dingtalk.com/i/nodes/jb9Y4gmKWrx9eo4dCql9LlbYJGXn6lpz?spm=5176.29623064.0.0.41ed1eceYvocES&utm_scene=person_space)][[demo](https://tongyi.aliyun.com/wanxiang/videoCreation)]
 - **海螺视频使用教程** [[feishu](https://b6j6u5f4zf.feishu.cn/docx/WwHTdKdbHosmQBxkq3McUNQ7nwe)][[demo](https://hailuoai.com/video)]
 
+### Some material of Reinforcement Learning
+
+- **大语言模型 RLHF 全链路揭秘：从策略梯度、PPO、GAE 到 DPO 的实战指南** [[zhihu](https://zhuanlan.zhihu.com/p/22978147852)]
+- **人人都能看懂的RL-PPO理论知识** [[zhihu](https://zhuanlan.zhihu.com/p/7461863937)]
+- **DeepSeek的GRPO算法是什么？** [[zhihu](https://www.zhihu.com/question/10766825126)]
+- **DeepSeek-R1 技术剖析：没有强化学习基础也能看懂的 PPO & GRPO** [[blog](https://normaluhr.github.io/2025/02/07/grpo/#zh)]
+- **GRPO：Group Relative Policy Optimization** [[zhihu](https://zhuanlan.zhihu.com/p/20021693569)]
+- **聊聊GRPO算法——从Open R1来看如何训练DeepSeek R1模型** [[blog](https://www.cnblogs.com/zhiyong-ITNote/p/18702470)]
+- **图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读** [[zhihu](https://zhuanlan.zhihu.com/p/677607581)]
+
 ### Some Feature-Rich Toolkit
 
 - **Excalidraw** [[web](https://excalidraw.com/)]
