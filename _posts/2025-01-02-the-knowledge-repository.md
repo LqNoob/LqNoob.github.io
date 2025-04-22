@@ -19,6 +19,7 @@ This post shows how to add a table of contents as a sidebar.
 
 ### Some material of DeepSpeed (distribution training)
 
+- **The Ultra-Scale Playbook: Training LLMs on GPU Clusters** [[HF](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high_level_overview)]
 - **千亿参数开源大模型 BLOOM 背后的技术** [[github](https://github.com/huggingface/blog/blob/main/zh/bloom-megatron-deepspeed.md)]
 - **图解大模型训练之：数据并行上篇(DP, DDP与ZeRO)** [[weixin](https://mp.weixin.qq.com/s?__biz=Mzg2NjcwNjcxNQ==&mid=2247484836&idx=1&sn=fec96358148563af370ab488031aec04&chksm=ce47f1d0f93078c63ebab012216b5dadf679048d9266fad9b222e586ea6435ecd27ef44772e1&scene=21#wechat_redirect)]
 - **图解大模型训练之：数据并行下篇(ZeRO，零冗余优化)** [[weixin](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247509646&idx=2&sn=64f11c3dc38a0c631acbfe46b7026a52&scene=21#wechat_redirect)]
@@ -55,3 +56,4 @@ This post shows how to add a table of contents as a sidebar.
 ### Some Feature-Rich Toolkit
 
 - **Excalidraw** [[web](https://excalidraw.com/)]
+- **draw.io** [[web](https://draw.io/)]
