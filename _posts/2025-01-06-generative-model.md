@@ -13,6 +13,10 @@ toc:
 
 This post shows how to add a table of contents as a sidebar.
 
+## Comprehension
+
+- **Generative modelling in latent space** [[Sander Dieleman](https://sander.ai/)]
+
 ## Flow Matching Models
 
 - **深入解析Flow Matching技术** [[zhihu-zh](https://zhuanlan.zhihu.com/p/685921518)]
